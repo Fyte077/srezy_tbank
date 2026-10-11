@@ -1,1 +1,1 @@
-{"name": "constant", "metric": "quantile_quality_x100", "folds": [0.0, 0.0, 0.0, 0.0], "cv": 0.0, "std": 0.0}
+{"name": "catboost_const_10", "metric": "quantile_quality_x100", "folds": [64.11, 64.08, 64.11, 66.52], "cv": 64.7, "std": 1.05}
